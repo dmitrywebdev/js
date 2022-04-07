@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "no need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"some error\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrywebdev/js.git"
+  },
+  "keywords": [
+    "test",
+    "js"
+  ],
+  "author": "Dmitriy Koptin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrywebdev/js/issues"
+  },
+  "homepage": "https://github.com/dmitrywebdev/js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
